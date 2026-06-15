@@ -1,0 +1,7 @@
+# Ignore database files
+*.db
+data/db/*.db
+
+# Ignore virtual environments
+venv/
+__pycache__/
